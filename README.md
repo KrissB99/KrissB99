@@ -1,6 +1,12 @@
 # 💫 About Me:
-👋 Hi there! I'm a Python developer with a passion for automation, AI, and building things that work smarter, not harder.<br><br>With over 3 years of full-stack experience at Nokia, I'm deeply immersed in the world of automation, where I specialize in creating streamlined solutions that help teams do more with less. But I don't stop there—I'm always in motion with a variety of side projects, constantly exploring new tools and technologies to level up my skills.<br><br>🎨 By day: Automation expert working on impactful projects for Nokia.<br>💡 By night: Web developer and brand collaborator, bringing creative ideas to life through responsive, AI-powered webpages and custom solutions.<br><br>I’m all about learning, experimenting, and building, whether it’s diving into AI-driven design or crafting web experiences that help brands stand out. If you're looking to collaborate, learn together, or just chat about the latest in tech, feel free to reach out!
+👋 Hi there! I'm a Frontend Developer with a love for crafting clean, responsive, and user-friendly interfaces that combine form and function.
 
+With over 3 years of experience, including full-stack development at Nokia, I've grown into a frontend specialist—working with React, TypeScript, Material UI, and modern frameworks to build intuitive apps that make complex workflows feel effortless. I'm passionate about UI/UX, performance, and building components that scale beautifully.
+
+🎨 By day: Frontend developer delivering impactful web interfaces that support automation and enterprise tools.
+💡 By night: UI/UX enthusiast and indie builder, experimenting with new design systems, animations, and AI-driven user experiences.
+
+Whether it's creating dashboards that tell a story or collaborating on cross-functional products, I'm all about designing for clarity, accessibility, and user delight. Always learning, always building—let’s connect and bring bold ideas to the browser!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krystyna-banaszewska) 
