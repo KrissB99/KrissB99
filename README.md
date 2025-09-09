@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm a Frontend Developer with a love for crafting clean, responsive, and user-friendly interfaces that combine form and function.
 
-With over 3 years of experience, including full-stack development at Nokia, I've grown into a frontend specialist—working with React, TypeScript, Material UI, and modern frameworks to build intuitive apps that make complex workflows feel effortless. I'm passionate about UI/UX, performance, and building components that scale beautifully.
+With over 3 years of experience, including full-stack development at Nokia, I've grown into a frontend specialist—working with React, TypeScript, Shadcn, and modern frameworks to build intuitive apps that make complex workflows feel effortless. I'm passionate about UI/UX, performance, and building components that scale beautifully.
 
 🎨 By day: Frontend developer delivering impactful web interfaces that support automation and enterprise tools.
 💡 By night: UI/UX enthusiast and indie builder, experimenting with new design systems, animations, and AI-driven user experiences.
